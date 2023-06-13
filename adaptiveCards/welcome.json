@@ -1,0 +1,19 @@
+{
+  "type": "AdaptiveCard",
+  "body": [
+    {
+      "type": "TextBlock",
+      "size": "Medium",
+      "weight": "Bolder",
+      "text": "👋 Welcome to wizbuddy!!!"
+    },
+    {
+      "type": "TextBlock",
+      "text": "I'm here to assist you with various tasks and provide useful information. Just ask me anything, and I'll do my best to help you out.",
+      "wrap": true
+    }
+  ],
+
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.4"
+}
